@@ -1,4 +1,4 @@
-//Função para mudar conteúdo da section
+//Função para mudar conteúdo da section TESTE
 function avancar (atual,proxima){
 	document.getElementById(atual).style.display = "none";
 	document.getElementById(proxima).style.display = "block";
